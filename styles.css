@@ -1,0 +1,21 @@
+section{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    border: dashed 2px rgb(228, 154, 166);
+    background-color: pink;
+    border-radius:15px;
+    margin:2px;
+}
+video{
+    width: 24vw;
+    margin:5px;
+    text-align: center;
+    font-size: 20px;
+    border-radius:15px;
+}
+h1{
+    padding:5px;
+    color:rgb(241, 237, 238);
+    text-shadow: 2px 2px #daa8a8;
+}
